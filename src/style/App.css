@@ -1,0 +1,17 @@
+@font-face{
+font-family: Kanit;
+src: url(../assets/font/Kanit-Regular.ttf);
+src: url(../assets/font/Kanit-Italic.ttf);
+src: url(../assets/font/Kanit-SemiBold.ttf);
+
+
+}
+
+
+.home{
+  font-family: 'Kanit', sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
