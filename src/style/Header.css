@@ -7,30 +7,3 @@
 color:#ff9131 ;
 
 }
-.header__research{
-    border: 2px solid #ff8c00;
-    background-color: #ffc49096;
-    border-radius: 12px;
-    margin: auto;
-    width: 80%;
-    padding:4px 6px 4px 6px;
-    transition: 0.5s ease-out;
-}
-
-.header__research::placeholder{
-    color: rgb(255, 255, 255);
-    font-style: italic;
-
-}
-input:focus {
-    outline: none;
-  }
-.header__research:focus{
-    transform: scale(1.2);
-    transition: 0.5s;
-    color: white;
-}
-
-.header__research::value{
-    
-}
